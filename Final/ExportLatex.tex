@@ -1,0 +1,17 @@
+\usepackage[style=verbose-ibid,backend=bibtex]{biblatex}
+\addbibresource{Bibliography.bib}
+\usepackage{ftnxtra}
+\usepackage{fnpos}
+\interfootnotelinepenalty=10000
+\usepackage{fontspec}
+\setmainfont{Roboto-Light.ttf}[
+BoldFont = Roboto-Medium.ttf ,
+ItalicFont = Roboto-LightItalic.ttf]
+\begin{document}
+
+
+\tableofcontents
+%\listoffigures
+\subsection{References}
+\nocite{*} 
+\printbibliography[heading=none]
