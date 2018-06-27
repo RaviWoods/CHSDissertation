@@ -1,14 +1,4 @@
-
-
----
-
-**Preface**
-
-In this draft, I seek to show a rough outline of what the final piece will be. In the Glossary, I show definitions for terms that may be unknown to a reader. I wasn't sure whether these definitions should be expanded in the text, however. The Introduction seems to be quite effective, and I imagine this will be fairly similar to the final piece. 
-
-The main body of the text is a number of short essays, written from the perspective of different people who may shed light on the overall issue. At the moment it is just two, however I hope the final piece ends with six. The first will likely be from the perspective of an Atheist, a Christian and a Muslim (these are the three worldviews focused on in this text). The perspectives of the atheist and the muslim will need interviews with others, I feel, since I am not best qualified to speak on behalf of an atheist or a muslim without them.  Then the final three will be from the perspective of a Network Theorist, a Linguist, and a Journalist. I hope this approach is effective - do tell if it isn't. Of what is here, I think the section from the Christian is quite well formed, but the Network Theorist will need some tweaking I imagine.
-
-Finally, I am still debating in my head whether a conclusion is necessary. Following convention, a conclusion would make sense to tie it together, however I feel that tying it together isn't necessarily the point; these are six different takes on one question. I would be interested in your thoughts on this.
+**Religion without a Row: Facilitating Positive Religious Dialogue Online**
 
 ---
 
@@ -25,13 +15,35 @@ Filters on the internet that fundamentally alter the way we encounter ideas and 
 
 ---
 
+**Background**
+
+When approaching this topic, we need to have background into two areas; the landscape of religious beliefs, and the landscape of the online world. We will take each in turn. Worldwide, over 80% of the world is religious, with Christians and Muslims making up over 50% of the world's population\autocite{HackettChristiansremainworld2017}. However, it is important to note that this does not mean 80% of the world is committed to their faith. The terms 'culturally Muslim' or 'culturally Christian' have been used to describe these individuals. And they can be surprisingly common. In a study on Islam by the Pew Research centre, 
+
+
+
+
+
+
+
+As the Internet grew, people began to see it as a tool to bring people together; as a tool to solve this exact issue. Way back in 1993, internet theorist Michael Hauben wrote that "The Net brings the isolated individual into contact with people, opinions, and views from the rest of the world"^9^. This, he concludes, is an important aspect of the online world, since "exposure to many possible opinions gives the reader a chance to actually think something over before making a decision as to a personal opinion"^10^. 
+
+However, as the internet grew, each user's journey through the online world was tailored just for them. Filter bubbles began to box us into clusters, rather than exposing us to the world's opinions. From social networks to search engines, the content we see was being categorized and personalised. Eli Pariser, chief executive of Upworthy, in his book *The Filter Bubble, *wrote that as "Google personalized for everyone, the query 'stem cells' might produce diametrically opposed results for scientists who support stem cell research and activists who oppose it"^11^.  When it comes to religion, then, how can we push back against this over-personalisation? How can we get back to an agora-like Internet, where the world can meaningfully discuss issues of religion, philosophy and worldview? In this piece, you will see a number of different ways of approaching this issue; a number of differing voices, much like the market place of ideas that the internet can offer. It is up to you to decide which are meaningful, and which are not.
+
+---
+
 **Introduction**
 
-Religion, whether you like it or not, is a huge influence on the world's population. While the number of people calling themselves athiests has increased, especially in the West, over the past half century (see Figure 1), it is difficult to deny to importance of religion in the public sphere. Over 80% of the world is religious, with Christians and Muslims making up over 50% of the world's population\autocite{HackettChristiansremainworld2017}. 
+Religion, whether you like it or not, is a huge influence on the world's population. While the number of people calling themselves athiests has increased, especially in the West, over the past half century (see Figure 1), it is difficult to deny to importance of religion in the public sphere. Over 80% of the world is religious, with Christians and Muslims making up over 50% of the world's population\autocite{HackettChristiansremainworld2017}. Whether positively or negatively, it is difficult to deny that these beliefs effect our society as a whole; our art, culture, entertainment, laws and politics are all markedly changed by religious values. Even though portions of the world's religious population are only culturally so (as discussed in Section 1), these religions still have an affect on these individuals. And for those who are devout believers, the religion does not just affect their actions within a church or a mosque - but their day-to-day actions and thoughts also. 
 
 ![Graph showing the rise of Americans with no religious identification, from Gallup\autocite{GallupThisEasterSmaller}](./NonesRise.jpg)
 
-To those believers, their religion does not just affect their actions within a church or a mosque, but their religious beliefs make up a large part of their world view. Religion shapes thoughts. Therefore, it makes sense that understanding the religious beliefs of those around us is, in general, a useful thing to do. However, at times, we might think that discussing God or religion will be fruitless; that it will only end in debate, shouting and, ultimately, an impasse. Just look to any online comments section! (Figure 2)
+And yet, our clearest picture of someone practising Islam, for example, is often found in suicide bombers, rather than in the practices of those close to us. The comedian Lee Mack makes this point, when being interviewed on the BBC Radio 4 show *Desert Island Discs*: 
+
+> "I think it's quite odd that people like myself, in their forties, quite happy to dismiss the Bible, but I've never read it. I always think that if an alien came down and you were the only person they met, and they said, 'What's life about? What's earth about? Tell us everything,' and you said, 'Well, there's a book here that purports to tell you everything. Some people believe it to be true; some people [do] not believe it [to be] true.' 'Wow, what's it like?' and you go, 'I don't know, I've never read it.' It would be an odd thing wouldn't it?"\autocite{BBCRadio4DesertIslandDiscs13}
+
+Mack points out the attitude of dismissing the Bible without examining it is, at face value, an odd thing to do. While we may be scared off by the actions of the religious, or we feel constrained by the taboo religion holds, not bothering to ever look into it leaves us in the dark; we end up distancing ourselves from the people around us. 
+
+However, at times, we might think that discussing God or religion will be fruitless; that it will only end in debate, shouting and, ultimately, an impasse. Just look to any online comments section! (Figure 2)
 
 ![A number of comments below an article on China's banning of the Bible, found in 5 minutes from browsing the front page of *The Independant*.\autocite{OppenheimChinacrackssales2018}](./NewspaperComments.png)
 
@@ -40,17 +52,13 @@ But this is not a new issue. Herodotus, an Ancient Greek historian, tells of a s
 > "When Darius was king, he summoned the Greeks who were with him and asked them what price would persuade them to eat their fathers’ dead bodies. They answered that there was no price for which they would do it. Then he summoned those Indians who are called Callatiae, who eat their parents, and asked them (the Greeks being present and understanding by interpretation what was said) what would make them willing to burn their fathers at death. The Indians cried aloud, that he should not speak of so horrid an act"\autocite{HerodotusHistoryHerodotus1910}
 >
 
-Karl Popper, in *The Myth of the Framework*, rejects the notion that this confrontation was fruitless. While he agrees that "mutual understanding was not achieved"\autocite[pg 37]{PopperMythFrameworkdefence1997}, he points out that even without conversation, this confrontation can begin to breed tolerance and respect to those different from ourselves and, over time, this can bear fruit; the fruit of understanding"\autocite{PopperMythFrameworkdefence1997}. 
+Karl Popper, in *The Myth of the Framework*, rejects the notion that this confrontation was fruitless. While he agrees that "mutual understanding was not achieved"\autocite[pg 37]{PopperMythFrameworkdefence1997}, he points out that even without conversation, this confrontation can begin to breed tolerance and respect to those different from ourselves and, over time, this can bear fruit; the fruit of understanding\autocite{PopperMythFrameworkdefence1997}. 
 
-While this example is extreme, it is a picture you might be scared of. As you look at online comment sections, or at Richard Dawkins, or to Israel & Palestine, you might be put off by others' worldview. But these extreme examples are the ones that stick out most in our mind because we rarely actually see the beliefs and practices of those near us. One's worldview, almost by definition, affects the way we see life, and so affects what we do day-to-day. And yet, our clearest picture of someone practising Islam (or, at least, their version of Islam) is found in terrorist attacks, not in the practices of those close to us. The comedian Lee Mack makes this point, when being interviewed on the BBC Radio 4 show *Desert Island Discs*: 
+**Why understanding religious thought is important to stop this kind of dialogue**  
 
-> "I think it's quite odd that people like myself, in their forties, quite happy to dismiss the Bible, but I've never read it. I always think that if an alien came down and you were the only person they met, and they said, 'What's life about? What's earth about? Tell us everything,' and you said, 'Well, there's a book here that purports to tell you everything. Some people believe it to be true; some people [do] not believe it [to be] true.' 'Wow, what's it like?' and you go, 'I don't know, I've never read it.' It would be an odd thing wouldn't it?"\autocite{BBCRadio4DesertIslandDiscs13}
+**How internet can help not hinder**
 
-Mack points out the attitude of dismissing the Bible without examining it is, at face value, an odd thing to do. While we may be scared off by the actions of the religious, or we feel constrained by the taboo religion holds, not bothering to ever look into it leaves us in the dark; we end up distancing ourselves from the people around us. 
-
-As the Internet grew, people began to see it as a tool to bring people together; as a tool to solve this exact issue. Way back in 1993, internet theorist Michael Hauben wrote that "The Net brings the isolated individual into contact with people, opinions, and views from the rest of the world"^9^. This, he concludes, is an important aspect of the online world, since "exposure to many possible opinions gives the reader a chance to actually think something over before making a decision as to a personal opinion"^10^. 
-
-However, as the internet grew, each user's journey through the online world was tailored just for them. Filter bubbles began to box us into clusters, rather than exposing us to the world's opinions. From social networks to search engines, the content we see was being categorized and personalised. Eli Pariser, chief executive of Upworthy, in his book *The Filter Bubble, *wrote that as "Google personalized for everyone, the query 'stem cells' might produce diametrically opposed results for scientists who support stem cell research and activists who oppose it"^11^.  When it comes to religion, then, how can we push back against this over-personalisation? How can we get back to an agora-like Internet, where the world can meaningfully discuss issues of religion, philosophy and worldview? In this piece, you will see a number of different ways of approaching this issue; a number of differing voices, much like the market place of ideas that the internet can offer. It is up to you to decide which are meaningful, and which are not.
+**Format of the dissertation**  
 
 ---
 
@@ -158,3 +166,21 @@ Another issue is how information is displayed. In Bohm Dialogue, the "basic noti
 
 **Insights and Problems**
 
+Having gone into these three research areas, we must then join the dots; how can these areas come together into practical changes that facilitate religious dialogue online? The first natural step is to look at the design of the social networks themselves. The central issue is the echo chamber. As seen in Section 1, an echo chamber **is**… . In our specific context, this central issue manifests itself in three ways. 
+
+The first is the amplifying of homophily, seen in Section 5. In the offline world, we tend to interact with those we identify with, and we do this as religious groups also. However, we are still forced to interact with those we don't identify with in the offline world; we have little control over who sits next to us on the Tube, or who our neighbours are, or who we work with, for example. In the online world, however, we only see those one link away from us; those we are friends with. We rarely see the wider network, and modern social networks are only making this more rare, by reducing the interactions we see between friends and friends-of-friends. 
+
+The second is what information is displayed. On the internet, we see one of two things; either the content that is trending on the whole network, or content chosen for us, that we are likely to enjoy. This is an incredibly populist approach, with little emphasis given to minority and dissenting. For religious discussion, this is an issue; we see the views of one or two major religions, without ever seeing the views of the rest. 
+
+The final manifestion is in the sense of anonymity the internet provides. Even on websites where we interact with friends, the abstraction of the internet gives us a sense of freedom to say what we feel. In part, this is helpful to let people freely talk about their issues. However, it does not discourage individuals from negative behaviours; argument, hate and anger.
+
+In all these three areas, design decisions could be made to help. We could see more of the wider network, or we could see more dissenting views, or we could be dissuaded from negative behaviours in discussion. Usually, however, the social networks themselves are acting to maximise profit. The way they do this is not by encouraging positive dialogue; it is by giving people what they want. By giving into an indiviudal's cravings, the individual will spend more time on the site, and the social network will get more advertising revenue. So, then, the central issue is the cravings and desires of people while they are online; in general, what are people drawn to? Unfortunately, It seems that there is still a disconnect between motivations that aid healthy dialogue, and the things people are actually driven by. In a paper by Berger and Milkman\autocite{BergerWhatMakesOnline2012}, they looked at how viral different *New York Times* articles. The results can be seen in Figure X. In general, it can be seen that when high arousal emotions are evoked, content is popular. This can be positive high arousal (awe and interest, for example). However, the most popular content was not positive; it evoked anger. This is of course an issue. The mindset for dialogue (as seen in Section 3), is one of openness; one of suspending angry emotions. This might go some way to explain why discourse about religion online is often not like this; it reverts to anger and argument quickly, simply because that's what piques people's interest. 
+
+We discussed motivation in part in Section 4, where we could help motivate Christians by going back to biblical doctrine. This could have been done with those of other religions also...
+**OTHER RELIGIONS**
+
+There are also ways of changing motivation that don't appeal to religious leaders and holy books. In the field of economics, often incentives are used to guide behaviour. However these incentives don't have to be large. In behavioural economics, a 'nudge' is a small suggestion or reinforcement which guides behaviour. Thaler and Sunstein, in their 2008 book\autocite{ThalerNudgeimprovingdecisions2008}, describe it as follows:
+
+> "A nudge...is any aspect of the choice architecture that alters people's behavior in a predictable way without forbidding any options or significantly changing their economic incentives. To count as a mere nudge, the intervention must be easy and cheap to avoid. Nudges are not mandates."\autocite[pg 6]{ThalerNudgeimprovingdecisions2008}
+
+An example is given in the book of a fake image of a fly put into urinals at Schipol airport, since "if a man sees a fly, he aims at it"\autocite{ThalerNudgeimprovingdecisions2008}. Thus, this small nudge "reduced spillage by 80 percent"\autocite{ThalerNudgeimprovingdecisions2008}. By having these small postive reinforcements and things to aim for, Thaler and Sunstein argue, behaviour can be changed. Further work, then, needs to be done into these nudges. Through experimentation and user-centred design, we need to see how we can motivate someone towards open religious dialogue. With Bohm dialogue as the target, how can we nudge online behaviour in a way that makes people more willing to suspend their anger, in order to engage in positive discourse? This is the research question that design can answer.
